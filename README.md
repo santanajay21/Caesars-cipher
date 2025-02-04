@@ -1,2 +1,2 @@
 # Caesars-cipher
-This is the Caesar Cipher. This is an encoding and decoding program. The user is able to create an encrypted message and then is able to decrypt it as well. This program has been helping me learn how to create and combine different functions with different types of parameters.
+This is the Caesar Cipher. This is an encoding and decoding program. The user is able to create an encrypted message and then is able to decrypt it as well. This program has been helping me learn how to create and combine different functions with different types of parameters. This project forced me to go over every line of code to understand what is going on. I will have to loop back around to fix the bugs within this porject , I still have alot to learn. 
